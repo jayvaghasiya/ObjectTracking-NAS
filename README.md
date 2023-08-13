@@ -329,7 +329,3 @@ cv2.destroyAllWindows()
 </details>
 
 
-## Contact
-
-For Yolo tracking bugs and feature requests please visit [GitHub Issues](https://github.com/mikel-brostrom/yolo_tracking/issues).
-For business inquiries or professional support requests please send an email to: yolov5.deepsort.pytorch@gmail.com
