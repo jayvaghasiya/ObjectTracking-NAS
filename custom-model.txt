@@ -1,0 +1,22 @@
+for run this code on custom model::
+
+pass these argument ::
+
+Exact name of the yolo model(Ex: yolo_nas_s,yolo_nas_l,yolo_nas_m):
+
+--yolo-model yolo_nas_s
+
+Path of the checkpoint :
+
+--chekpoint_path ../tyre_model.pth
+
+Enter the classes you want to trak with your custom model (In original sequence):
+
+--custom_classes tyre parcel dummy
+
+
+Example: 
+
+python examples/track.py --yolo-model yolo_nas_s --checkpoint_path ../tyre_model.pth --source ../tyre.mp4 --save --show --custom_classes tyre
+
+
