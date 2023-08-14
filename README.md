@@ -1,7 +1,7 @@
 # Object Tracker for Pretrained and finetuned yolo models:
 
 <div align="center">
-<h3>Botsort</h3> 
+<h3>Botsort Tracking</h3> 
 
 <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/BotSort.drawio.png" alt="botsort">
   
