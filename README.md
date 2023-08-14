@@ -1,7 +1,7 @@
-# BoxMOT: pluggable SOTA tracking modules for object detectors. Yolov8, YoloX, YoloNAS supported. SOTA CLIP-ReID models available!!
+# Object Tracker for Pretrained and finetuned yolo models:
 
 <div align="center">
-## BotSort 
+<h3>Botsort</h3> 
 
 <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/BotSort.drawio.png" alt="botsort">
   
@@ -56,7 +56,7 @@ pip install boxmot
 
 <details>
 <summary>Tracking</summary>
-
+</details>
 <details>
 <summary>Yolo models</summary>
 
@@ -71,7 +71,7 @@ $ python examples/track.py --yolo-model yolov8n       # bboxes only
 
 ```
 
-  </details>
+</details>
 
 <details>
 <summary>Tracking methods</summary>
