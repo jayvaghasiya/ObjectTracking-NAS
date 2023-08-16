@@ -1,8 +1,10 @@
 # Object Tracker for Pretrained and finetuned yolo models:
 
+<img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/drone.gif" width="400">
+
+
 <div align="center">
 <h3>Botsort Tracking</h3> 
-
 <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/BotSort.drawio.png" alt="botsort">
   
 </div>
