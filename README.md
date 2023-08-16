@@ -1,9 +1,9 @@
 # Object Tracker for Pretrained and finetuned yolo models:
-
+<div align="center">
 <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/drone.gif" width="400"> <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/road.gif" width="400">
 <br>
 <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/tyre.gif" width="400"><img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/parcel.gif" width="400">
-
+</div>
 
 <div align="center">
 <h3>Botsort Tracking</h3> 
@@ -46,7 +46,7 @@ Start with [**Python>=3.8**](https://www.python.org/) environment.
 If you want to run the YOLOv8, YOLO-NAS or YOLOX examples:
 
 ```
-git clone https://github.com/mikel-brostrom/yolo_tracking.git
+git clone https://github.com/jayvaghasiya/ObjectTracking-NAS.git
 pip install -v -e .
 ```
 
