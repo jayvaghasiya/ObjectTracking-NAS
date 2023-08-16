@@ -1,9 +1,12 @@
 # Object Tracker for Pretrained and finetuned yolo models:
 <div align="center">
-
-Drone Object detection<img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/drone.gif" width="400"> Road-Object detection <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/road.gif" width="400">
-<br>
-Tyre detection<img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/tyre.gif" width="400">Pracel detection<img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/parcel.gif" width="400">
+<h4>Drone Object detection</h4>
+<img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/drone.gif" width="400"> 
+<h4>Road-Object detection</h4> 
+<img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/road.gif" width="400">
+<h4>Tyre detection</h4><img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/tyre.gif" width="400">
+<h4>Pracel detection</h4>
+<img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/parcel.gif" width="400">
 </div>
 
 <div align="center">
