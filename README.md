@@ -1,6 +1,8 @@
 # Object Tracker for Pretrained and finetuned yolo models:
 
 <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/drone.gif" width="400"> <img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/road.gif" width="400">
+<br>
+<img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/tyre.gif" width="400"><img src="https://github.com/jayvaghasiya/ObjectTracking-NAS/blob/main/assets/images/parcel.gif" width="400">
 
 
 <div align="center">
